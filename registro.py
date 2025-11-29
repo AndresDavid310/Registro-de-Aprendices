@@ -1,10 +1,3 @@
-# ---------------------------------------------------------
-# PROGRAMA SENCILLO: Registro de aprendices
-# Cumple con:
-# listas, tuplas, diccionarios, cadenas, f-strings,
-# condicionales y bucle while.
-# ---------------------------------------------------------
-
 aprendices = []   # lista para guardar los aprendices
 
 while True:
@@ -57,3 +50,4 @@ while True:
 
     else:
         print("Opción inválida. Intenta de nuevo.")
+# Fin del programa
